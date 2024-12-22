@@ -1,0 +1,27 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+    display: inline-block;
+  }
+  
+  .cardImage {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .cardTitle {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .cardDescription {
+    font-size: 1rem;
+    color: #555;
+  }
+  
